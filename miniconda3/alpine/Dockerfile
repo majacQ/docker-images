@@ -1,4 +1,4 @@
-FROM alpine:3.12.1 as alpine-glibc
+FROM alpine:3.12.12 as alpine-glibc
 
 #  $ docker build . -t continuumio/miniconda3:4.9.2-alpine
 #  $ docker push continuumio/miniconda3:4.9.2-alpine
